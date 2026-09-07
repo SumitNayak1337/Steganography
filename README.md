@@ -71,5 +71,5 @@ This project is licensed under the **MIT License**.
 
 
 ---
-🔒 *Hide your secrets like a pro!*
+🔒 *Hide your secrets like a pro*
 
